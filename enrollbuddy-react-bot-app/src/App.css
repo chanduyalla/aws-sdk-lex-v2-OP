@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  h1{
+    color: white;
+  }
+}
+.chatbot-icon-button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 40px;
+  padding: 20px;
+  border-radius:40px;
+  border: none;
+  cursor: pointer;
+}
